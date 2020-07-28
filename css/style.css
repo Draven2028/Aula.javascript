@@ -1,0 +1,33 @@
+body { 
+    background: rgba(26, 23, 23, 0.63);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 { 
+    color: black;
+    font-family: century;
+}
+
+h2 {
+    font-family: fantasy;
+    margin
+}
+
+p {
+    font-size: 18px;
+}
+
+
+.img_padrão { 
+    margin-bottom: 20px;
+    width: 600px;
+}
+
+.logo {
+    width: 50px;
+}
